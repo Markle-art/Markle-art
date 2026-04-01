@@ -1,7 +1,7 @@
  Hello there 👋
 
 <!--
-**Markle-art/Markle-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mark_Lekayia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
