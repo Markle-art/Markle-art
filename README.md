@@ -2,8 +2,8 @@
 # Hi, I'm Lekayia Mark 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Lekayia+Mark...;Loading+Cybersecurity+Modules...;AI+Systems+Online...;Access+Granted+✔)](https://git.io/typing-svg)
 
-🚀 Cybersecurity Enthusiast | 🤖 AI Developer | 💻 Open Source Builder  
-🌍 Based in Kenya  
+Software Developer|Cybersecurity Enthusiast | 🤖 AI Developer | 💻 Open Source Builder  
+  Based in Kenya  
 🎯 Building tools that solve real-world problems
 
 ---
