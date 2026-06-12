@@ -4,111 +4,130 @@
 
 ### Software Developer • AI Builder • Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Building+Technology+That+Matters;AI+%7C+Software+Engineering+%7C+Security;Always+Learning+Always+Shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+Technology+That+Matters;Software+Developer;AI+Builder;Cybersecurity+Enthusiast;Always+Learning+Always+Shipping" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge" />
 
 </div>
 
 ---
 
-## ✨ Overview
+## 👨‍💻 About Me
 
-```text
-Name        : Lekayia Mark
-Location    : Nairobi, Kenya
-Role        : Software Developer
-Focus       : AI, Full-Stack Development, Security
-Current     : Building DawaFind
-Mission     : Creating technology with real-world impact
+```yaml
+Name: Lekayia Mark
+Role: Software Developer
+Location: Nairobi, Kenya
+
+Focus Areas:
+  - Software Engineering
+  - Artificial Intelligence
+  - Cybersecurity
+  - Open Source
+
+Current Project:
+  - DawaFind
+
+Mission:
+  Building technology that creates real-world impact.
+```
+
 ---
 
-## 🧠 About Me
-- 🔐 Passionate about Cybersecurity & Ethical Hacking  
-- 🤖 Exploring AI, automation, and intelligent systems  
-- 🌐 Open-source contributor and builder  
-- 📚 Constantly learning and improving my skills  
-- ⚡ I enjoy turning ideas into real working systems  
+## 🚀 Current Focus
+
+- 🏥 Building DawaFind
+- 🤖 Exploring AI-powered applications
+- ☁️ Learning cloud technologies
+- 🔐 Practicing secure software development
+- 📚 Improving system design skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AI](https://img.shields.io/badge/AI-Engineering-blueviolet?style=for-the-badge)
----
+<p align="center">
 
-## 🚀 Current Focus
-- 🔐 Cybersecurity fundamentals & penetration testing
-- 🤖 AI-powered automation tools
-- ☁️ Cloud security basics
-- 🧩 Building real-world open-source projects
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,linux,vscode" />
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Lekayia's GitHub stats](https://github-readme-stats.vercel.app/api?username=LekayiaMark&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LekayiaMark&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=000000&line=3b82f6&point=2563eb&area=true&hide_border=true" />
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🏥 DawaFind
-An AI-powered healthcare discovery platform helping users find medical facilities, services, and healthcare information efficiently.
+AI-powered healthcare discovery platform helping users find medical services and facilities efficiently.
 
-**Tech:** AI • Web Development • Healthcare Tech
-
----
-
-### 🤖 AI Safari Capstone Project
-A practical AI solution developed during the AI Safari program, focusing on real-world impact, responsible AI, and user-centered design.
-
-**Tech:** AI • Machine Learning • Product Development
-
----
+### 🤖 AI Safari Capstone
+Real-world AI project focused on impact, usability, and responsible AI principles.
 
 ### 🌐 Personal Portfolio
-A modern portfolio showcasing projects, skills, achievements, and professional journey as a software developer.
-
-**Tech:** HTML • CSS • JavaScript • GitHub Pages
-
----
+A professional portfolio showcasing projects, skills, achievements, and experience.
 
 ### 🔐 Cybersecurity Labs
-A collection of security exercises, learning notes, and hands-on projects exploring secure software development and ethical hacking concepts.
-
-**Tech:** Linux • Networking • Security
-
----
+Security-focused learning projects, notes, experiments, and practical exercises.
 
 ### ⚡ Automation Tools
-Scripts and utilities designed to automate repetitive tasks and improve productivity.
-
-**Tech:** Python • APIs • Automation
+Python utilities and scripts designed to automate workflows and improve productivity.
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 2026 Goals
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
----
-
-## 💡 Quote I Live By
-> "Build, break, learn, and rebuild better."
+- ✅ Complete AI Safari Program
+- ✅ Launch DawaFind MVP
+- 🔄 Build Personal Portfolio Website
+- 🔄 Contribute to Open Source
+- 🔄 Strengthen Cloud & Security Skills
+- 🔄 Ship More Real-World Products
 
 ---
 
-## ⚡ Fun Fact
-I believe every system can be improved — if you understand how it breaks.![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Markle-art&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
+## 🌍 Connect
+
+<p align="center">
+
+<a href="https://github.com/markle-art">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/mark-kamaamia-432a73407">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:lekayiamark@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Philosophy
+
+> Build. Learn. Improve. Repeat.
+
+</div>
