@@ -67,12 +67,32 @@ Mission:
 </p>
 
 ---
+.github/workflows/snake.yml
 
-## 🐍 Contribution Activity
+name: Generate Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/markle-art/markle-art/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: LekayiaMark
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 ## 📌 Featured Projects
