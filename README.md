@@ -108,7 +108,7 @@ Python utilities and scripts designed to automate workflows and improve producti
 
 <p align="center">
 
-<a href="https://github.com/markle-art">
+<a href="https://github.com/Markle-art">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
