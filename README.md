@@ -1,11 +1,28 @@
-![Lekayia Mark Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=200&section=header&text=Lekayia%20Mark&fontSize=45&fontColor=00FF00&animation=twinkling&fontAlignY=35)
-# Hi, I'm Lekayia Mark 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+Lekayia+Mark...;Loading+Cybersecurity+Modules...;AI+Systems+Online...;Access+Granted+✔)](https://git.io/typing-svg)
+<div align="center">
 
-Software Developer|Cybersecurity Enthusiast | 🤖 AI Developer | 💻 Open Source Builder  
-  Based in Kenya  
-🎯 Building tools that solve real-world problems
+# Lekayia Mark
 
+### Software Developer • AI Builder • Cybersecurity Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Building+Technology+That+Matters;AI+%7C+Software+Engineering+%7C+Security;Always+Learning+Always+Shipping" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=flat-square" />
+
+</div>
+
+---
+
+## ✨ Overview
+
+```text
+Name        : Lekayia Mark
+Location    : Nairobi, Kenya
+Role        : Software Developer
+Focus       : AI, Full-Stack Development, Security
+Current     : Building DawaFind
+Mission     : Creating technology with real-world impact
 ---
 
 ## 🧠 About Me
