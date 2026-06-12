@@ -10,14 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: markle-art
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: "markle-art"
+          outputs: |
+            dist/snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
