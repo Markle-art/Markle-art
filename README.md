@@ -68,10 +68,11 @@ Mission:
 
 ---
 
-## 🔥 Contribution Activity
+## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=markle-art&bg_color=ffffff&color=000000&line=3b82f6&point=2563eb&area=true&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=markle-art&theme=transparent&hide_border=true" />
+</p>
 ---
 
 ## 📌 Featured Projects
