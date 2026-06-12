@@ -60,9 +60,9 @@ Mission:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=markle-art&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markle-art&layout=compact&theme=transparent&hide_border=true" />
 
 </p>
 
@@ -108,7 +108,7 @@ Python utilities and scripts designed to automate workflows and improve producti
 
 <p align="center">
 
-<a href="https://github.com/Markle-art">
+<a href="https://github.com/markle-art">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
