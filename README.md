@@ -2,7 +2,7 @@
 
 # Lekayia Mark
 
-# Software Developer • AI Builder • Cybersecurity Enthusiast
+### Software Developer • AI Builder • Cybersecurity Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Building+Technology+That+Matters;Software+Developer;AI+Builder;Cybersecurity+Enthusiast;Always+Learning+Always+Shipping" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 Name: Lekayia Mark
@@ -36,7 +36,7 @@ Mission:
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Current Focus
 
 - 🏥 Building DawaFind
 - 🤖 Exploring AI-powered applications
@@ -46,7 +46,7 @@ Mission:
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -56,7 +56,7 @@ Mission:
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
 
@@ -74,26 +74,26 @@ Mission:
 </p>
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-# 🏥 DawaFind
+## 🏥 DawaFind
 AI-powered healthcare discovery platform helping users find medical services and facilities efficiently.
 
-# 🤖 AI Safari Capstone
+## 🤖 AI Safari Capstone
 Real-world AI project focused on impact, usability, and responsible AI principles.
 
-# 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 A professional portfolio showcasing projects, skills, achievements, and experience.
 
-# 🔐 Cybersecurity Labs
+## 🔐 Cybersecurity Labs
 Security-focused learning projects, notes, experiments, and practical exercises.
 
-# ⚡ Automation Tools
+## ⚡ Automation Tools
 Python utilities and scripts designed to automate workflows and improve productivity.
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - ✅ Complete AI Safari Program
 - ✅ Launch DawaFind MVP
@@ -104,7 +104,7 @@ Python utilities and scripts designed to automate workflows and improve producti
 
 ---
 
-# 🌍 Connect
+## 🌍 Connect
 
 <p align="center">
 
