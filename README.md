@@ -68,10 +68,10 @@ Mission:
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=markle-art&theme=transparent&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/markle-art/markle-art/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 ---
 
