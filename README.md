@@ -60,10 +60,39 @@ Mission     : Creating technology with real-world impact
 ---
 
 ## 📌 Featured Projects
-- 🔐 Password Manager (secure local storage tool)
-- 🤖 AI Chat Assistant (basic NLP chatbot)
-- 🌐 Web Security Lab Scripts
-- 📊 Data automation tools for productivity
+
+### 🏥 DawaFind
+An AI-powered healthcare discovery platform helping users find medical facilities, services, and healthcare information efficiently.
+
+**Tech:** AI • Web Development • Healthcare Tech
+
+---
+
+### 🤖 AI Safari Capstone Project
+A practical AI solution developed during the AI Safari program, focusing on real-world impact, responsible AI, and user-centered design.
+
+**Tech:** AI • Machine Learning • Product Development
+
+---
+
+### 🌐 Personal Portfolio
+A modern portfolio showcasing projects, skills, achievements, and professional journey as a software developer.
+
+**Tech:** HTML • CSS • JavaScript • GitHub Pages
+
+---
+
+### 🔐 Cybersecurity Labs
+A collection of security exercises, learning notes, and hands-on projects exploring secure software development and ethical hacking concepts.
+
+**Tech:** Linux • Networking • Security
+
+---
+
+### ⚡ Automation Tools
+Scripts and utilities designed to automate repetitive tasks and improve productivity.
+
+**Tech:** Python • APIs • Automation
 
 ---
 
