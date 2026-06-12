@@ -67,7 +67,7 @@ Mission:
 </p>
 
 ---
- name: Generate Snake
+ name: Generate Snake game
 
 on:
   schedule:
