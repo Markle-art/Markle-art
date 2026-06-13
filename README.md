@@ -79,7 +79,7 @@ Mission:
 
 </div> 
 ---
-## Featured projects
+## Selected Work
 
 <br>
 
@@ -134,10 +134,6 @@ Exploration through systems and experimentation.
 </tr>
 
 </table>
-
-
-
-
 ---
 ## 🎯 2026 Goals
 
