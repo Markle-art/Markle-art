@@ -67,11 +67,17 @@ Mission:
 </p>
 
 ---
- ## 🐍 Contribution Snake
+## 📊 Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Markle-art/Markle-art/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<img height="180" src="https://streak-stats.demolab.com?user=markle-art&theme=transparent&hide_border=true"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markle-art&theme=github_dark"/>
+
+</div> 
 ---
 
 ## 📌 Featured Projects
