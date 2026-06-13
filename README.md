@@ -67,6 +67,7 @@ Mission:
 </p>
 
 ---
+
 ## 📊 Activity
 
 <div align="center">
@@ -78,7 +79,9 @@ Mission:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markle-art&theme=github_dark"/>
 
 </div> 
+
 ---
+
 ## Selected Work
 
 <br>
@@ -134,7 +137,9 @@ Exploration through systems and experimentation.
 </tr>
 
 </table>
+
 ---
+
 ## 🎯 2026 Goals
 
 AI Safari           ██████████
