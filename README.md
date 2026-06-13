@@ -79,85 +79,64 @@ Mission:
 
 </div> 
 ---
+## Featured projects
 
-## 📌 Featured Projects
-
-## 🏥 DawaFind
-AI-powered healthcare discovery platform helping users find medical services and facilities efficiently.
-
-## 🤖 AI Safari Capstone
-Real-world AI project focused on impact, usability, and responsible AI principles.
-
-## 🌐 Personal Portfolio
-A professional portfolio showcasing projects, skills, achievements, and experience.
-
-## 🔐 Cybersecurity Labs
-Security-focused learning projects, notes, experiments, and practical exercises.
-
-## ⚡ Automation Tools
-Python utilities and scripts designed to automate workflows and improve productivity.
-
----
-## 📌 Featured Projects
+<br>
 
 <table>
+
 <tr>
+<td>
 
-<td width="50%">
+### ✦ DawaFind
 
-### 🏥 DawaFind
-AI healthcare discovery platform.
+AI-powered healthcare discovery platform.
 
-**Stack**  
-AI • Web • Healthcare
-
-→ View Project
+<sub>Artificial Intelligence · Healthcare · Product</sub>
 
 </td>
-
-<td width="50%">
-
-### 🤖 AI Safari
-Capstone focused on practical AI.
-
-**Stack**  
-AI • Product • Research
-
-→ View Project
-
-</td>
-
 </tr>
 
 <tr>
+<td>
 
-<td width="50%">
+### ✦ AI Safari Capstone
 
-### 🌐 Portfolio
-Personal site showcasing work.
+Applied AI built around usability and impact.
 
-**Stack**  
-Frontend • Design
-
-→ Visit
+<sub>Research · AI · Development</sub>
 
 </td>
+</tr>
 
-<td width="50%">
+<tr>
+<td>
 
-### 🔐 Security Labs
-Hands-on security experiments.
+### ✦ Portfolio
 
-**Stack**  
-Linux • Security
+A refined collection of projects and work.
 
-→ Explore
+<sub>Design · Engineering</sub>
 
 </td>
+</tr>
 
+<tr>
+<td>
+
+### ✦ Security Labs
+
+Exploration through systems and experimentation.
+
+<sub>Security · Linux</sub>
+
+</td>
 </tr>
 
 </table>
+
+
+
 
 ---
 ## 🎯 2026 Goals
