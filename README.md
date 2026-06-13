@@ -98,6 +98,14 @@ Security-focused learning projects, notes, experiments, and practical exercises.
 Python utilities and scripts designed to automate workflows and improve productivity.
 
 ---
+## 📊 Contribution Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markle-art&theme=github_dark"/>
+
+</div>
+---
 
 ## 🎯 2026 Goals
 
