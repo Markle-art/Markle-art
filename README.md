@@ -98,23 +98,79 @@ Security-focused learning projects, notes, experiments, and practical exercises.
 Python utilities and scripts designed to automate workflows and improve productivity.
 
 ---
-## 📊 Contribution Summary
+## 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markle-art&theme=github_dark"/>
+<td width="50%">
 
-</div>
+### 🏥 DawaFind
+AI healthcare discovery platform.
+
+**Stack**  
+AI • Web • Healthcare
+
+→ View Project
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Safari
+Capstone focused on practical AI.
+
+**Stack**  
+AI • Product • Research
+
+→ View Project
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio
+Personal site showcasing work.
+
+**Stack**  
+Frontend • Design
+
+→ Visit
+
+</td>
+
+<td width="50%">
+
+### 🔐 Security Labs
+Hands-on security experiments.
+
+**Stack**  
+Linux • Security
+
+→ Explore
+
+</td>
+
+</tr>
+
+</table>
+
 ---
-
 ## 🎯 2026 Goals
 
-- ✅ Complete AI Safari Program
-- ✅ Launch DawaFind MVP
-- 🔄 Build Personal Portfolio Website
-- 🔄 Contribute to Open Source
-- 🔄 Strengthen Cloud & Security Skills
-- 🔄 Ship More Real-World Products
+AI Safari           ██████████
+
+DawaFind            ████████░░
+
+Portfolio           ████░░░░░░
+
+Open Source         █████░░░░░
+
+Cloud               ███░░░░░░░
 
 ---
 
