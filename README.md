@@ -62,7 +62,7 @@ Mission:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=markle-art&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markle-art&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markle-art&layout=compact&theme=transparent&hide_border=true" />
 
 </p>
 
@@ -72,7 +72,7 @@ Mission:
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=markle-art&theme=transparent&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=Markle-art&theme=transparent&hide_border=true"/>
 
 <br>
 
