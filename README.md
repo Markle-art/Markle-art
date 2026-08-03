@@ -60,7 +60,7 @@ Mission:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=markle-art&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Markle-art&show_icons=true&theme=transparent&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markle-art&layout=compact&theme=transparent&hide_border=true" />
 
@@ -76,7 +76,7 @@ Mission:
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markle-art&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Markle-art&theme=github_dark"/>
 
 </div> 
 
