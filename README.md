@@ -60,9 +60,9 @@ Mission:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Markle-art&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=markle-art&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markle-art&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markle-art&layout=compact&theme=transparent&hide_border=true" />
 
 </p>
 
@@ -72,11 +72,11 @@ Mission:
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=Markle-art&theme=transparent&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=markle-art&theme=github-dark&hide_border=true"/>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Markle-art&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markle-art&theme=github_dark"/>
 
 </div> 
 
