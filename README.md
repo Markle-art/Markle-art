@@ -29,6 +29,8 @@ Focus Areas:
 
 Current Project:
   - DawaFind
+  - Afya Navigator
+  - S–Pass
 
 Mission:
   Building technology that creates real-world impact.
