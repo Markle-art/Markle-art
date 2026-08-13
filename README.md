@@ -31,6 +31,7 @@ Current Project:
   - DawaFind
   - Afya Navigator
   - S–Pass
+  - AI Safari
 
 Mission:
   Building technology that creates real-world impact.
@@ -40,7 +41,7 @@ Mission:
 
 ## 🚀 Current Focus
 
-- 🏥 Building DawaFind
+- 🏥 Building S-Pass 
 - 🤖 Exploring AI-powered applications
 - ☁️ Learning cloud technologies
 - 🔐 Practicing secure software development
