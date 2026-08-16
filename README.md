@@ -104,75 +104,78 @@ Mission:
 
 ---
 
-## Selected Work
-
-<br>
+## 🚀 Selected Work
 
 <table>
-
 <tr>
-<td>
+<td width="50%">
 
 ### ✦ DawaFind
+AI-powered healthcare discovery platform designed to help users find pharmacies and check medicine availability.
 
-AI-powered healthcare discovery platform.
+<sub>AI · Web Development · APIs · Healthcare</sub>
 
-<sub>Artificial Intelligence · Healthcare · Product</sub>
+</td>
+<td width="50%">
+
+### ✦ Northstar Support Deflection
+Customer-support MVP for handling order-status and stock-availability requests with intelligent fallback.
+
+<sub>Web Development · Product Engineering · UX</sub>
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%">
 
 ### ✦ AI Safari Capstone
+Applied AI project focused on building practical, user-centered solutions with measurable impact.
 
-Applied AI built around usability and impact.
+<sub>AI · Research · Software Development</sub>
 
-<sub>Research · AI · Development</sub>
+</td>
+<td width="50%">
+
+### ✦ Web3 & Hackathon Projects
+Rapidly prototyped applications across blockchain, APIs, AI and emerging technologies.
+
+<sub>Web3 · APIs · AI · Prototyping</sub>
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%">
 
-### ✦ Portfolio
+### ✦ Security & Systems Labs
+Hands-on experimentation with Linux, systems programming, networking and security concepts.
 
-A refined collection of projects and work.
+<sub>Linux · C · Systems · Security</sub>
 
-<sub>Design · Engineering</sub>
+</td>
+<td width="50%">
+
+### ✦ Personal Portfolio
+A continuously evolving space documenting projects, experiments, technical growth and things I'm building.
+
+<sub>Frontend · UI · Engineering</sub>
 
 </td>
 </tr>
-
-<tr>
-<td>
-
-### ✦ Security Labs
-
-Exploration through systems and experimentation.
-
-<sub>Security · Linux</sub>
-
-</td>
-</tr>
-
 </table>
 
 ---
 
-## 🎯 2026 Goals
+## ⚡ Currently Building
 
-AI Safari           ██████████
-
-DawaFind            ████████░░
-
-Portfolio           ████░░░░░░
-
-Open Source         █████░░░░░
-
-Cloud               ███░░░░░░░
+```text
+Software Engineering     █████████░  90%
+AI & Intelligent Systems ████████░░  80%
+Web Development          █████████░  90%
+Data & Analytics         ██████░░░░  60%
+Cloud & DevOps           ██████░░░░  60%
+Web3                     █████░░░░░  50%
 
 ---
 
