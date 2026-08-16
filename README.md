@@ -176,6 +176,7 @@ Web Development          █████████░  90%
 Data & Analytics         ██████░░░░  60%
 Cloud & DevOps           ██████░░░░  60%
 Web3                     █████░░░░░  50%
+```
 
 ---
 
