@@ -53,7 +53,7 @@ Mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript/Typescrip,C,html,css,git,github,linux,VB.NET,Rust,React,vscode" />
+<img src="https://skillicons.dev/iconsi=python,javascript,typescrip,c,html,css,git,github,linux,VB.NET,Rust,React,vscode" />
 
 </p>
 
