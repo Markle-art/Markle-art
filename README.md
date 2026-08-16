@@ -49,11 +49,32 @@ Mission:
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,rust" />
+</p>
 
-<img src="https://skillicons.dev/iconsi=python,javascript,typescrip,c,html,css,git,github,linux,VB.NET,Rust,React,vscode" />
+### Web & Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,git,github,vscode" />
+</p>
+
+### Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,vercel" />
+</p>
+
+### Data & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase" />
+</p>
+
+### Web3
+<p>
+<img src="https://skillicons.dev/icons?i=solidity" />
+</p>
 
 </p>
 
