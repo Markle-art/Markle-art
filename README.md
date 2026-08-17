@@ -41,11 +41,11 @@ Mission:
 
 ## 🚀 Current Focus
 
-- 🏥 Building S-Pass 
-- 🤖 Exploring AI-powered applications
-- ☁️ Learning cloud technologies
-- 🔐 Practicing secure software development
-- 📚 Improving system design skills
+- 🏥 Building S-Pass.
+- 🤖 Exploring AI-powered applications.
+- ☁️ Learning cloud technologies.
+- 🔐 Practicing secure software development.
+- 📚 Improving system design skills.
 
 ---
 
