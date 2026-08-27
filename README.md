@@ -42,8 +42,7 @@ Mission:
 ## 🚀 Current Focus
 
 -     Software Engineering | Full-stack Development | System & Product management    
-- 🤖 Exploring AI-powered applications.
-- 
+-     🤖 Exploring AI-powered applications.
 ---
 
 ## ⚡ Tech Stack
