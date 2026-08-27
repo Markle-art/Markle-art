@@ -41,12 +41,9 @@ Mission:
 
 ## 🚀 Current Focus
 
-- 🏥 Building S-Pass.
+-     Software Engineering | Full-stack Development | System & Product management    
 - 🤖 Exploring AI-powered applications.
-- ☁️ Learning cloud technologies.
-- 🔐 Practicing secure software development.
-- 📚 Improving system design skills.
-
+- 
 ---
 
 ## ⚡ Tech Stack
