@@ -145,7 +145,7 @@ Rapidly prototyped applications across blockchain, APIs, AI and emerging technol
 <td width="50%">
 
 ### ✦ Security & Systems Labs
-Hands-on experimentation with Linux, systems programming, networking and security concepts.
+Hands-on experimentation with Linux, systems programming, networking and security concepts
 
 <sub>Linux · C · Systems · Security</sub>
 
