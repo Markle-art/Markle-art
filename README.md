@@ -196,14 +196,6 @@ Web3                     █████░░░░░  50%
 
 ---
 
-<div align="center">
-
-## 💡 Philosophy
-
-> Build. Learn. Improve. Repeat.
-
-</div>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -214,3 +206,13 @@ Web3                     █████░░░░░  50%
          src="https://raw.githubusercontent.com/markle-art/markle-art/output/github-snake.svg">
   </picture>
 </p>
+
+---
+
+<div align="center">
+
+## 💡 Philosophy
+
+> Build. Learn. Improve. Repeat.
+
+</div>
