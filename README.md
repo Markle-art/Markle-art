@@ -54,32 +54,57 @@ Mission:
 
 ## ⚡ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,rust" />
-</p>
-
-### Web & Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,git,github,vscode" />
-</p>
-
-### Cloud & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,vercel" />
-</p>
-
-### Data & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,firebase,supabase" />
-</p>
-
-### Web3
-<p>
-<img src="https://skillicons.dev/icons?i=solidity" />
-</p>
-
-</p>
+<table>
+<tr><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="55">
+<br><b>Python</b>
+</td><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55">
+<br><b>JavaScript</b>
+</td><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55">
+<br><b>TypeScript</b>
+</td><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="55">
+<br><b>C#</b>
+</td></tr><tr><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55">
+<br><b>C++</b>
+</td><td align="center" width="25%">
+<img src="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="55">
+<br><b>React</b>
+</td><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="55">
+<br><b>Django</b>
+</td><td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55">
+<br><b>Node.js</b>
+</td></tr><tr><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55">
+<br><b>REST APIs</b>
+</td><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55">
+<br><b>GitHub</b>
+</td><td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=supabase" width="55">
+<br><b>Supabase</b>
+</td><td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55">
+<br><b>Nginx</b>
+</td></tr><tr><td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=git" width="55">
+<br><b>Git</b>
+</td><td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=html" width="55">
+<br><b>HTML</b>
+</td><td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=css" width="55">
+<br><b>CSS</b>
+</td><td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vercel" width="55">
+<br><b>Vercel</b>
+</td></tr>
+</table>
 
 ---
 
