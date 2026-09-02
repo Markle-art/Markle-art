@@ -31,7 +31,6 @@ Location: Nairobi, Kenya
 Focus Areas:
   - Software Engineering
   - Artificial Intelligence
-  - Cybersecurity
   - Open Source
 
 Current Project:
