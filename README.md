@@ -137,7 +137,7 @@ Mission:
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 <table>
 <tr>
@@ -213,7 +213,7 @@ Web3                     █████░░░░░  50%
 
 ---
 
-## 🌍 Connect
+## 🌍 Connect with me
 
 <p align="center">
 
