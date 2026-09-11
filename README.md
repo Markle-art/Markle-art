@@ -162,7 +162,7 @@ Customer-support MVP for handling order-status and stock-availability requests w
 <tr>
 <td width="50%">
 
-### ✦ AI Safari Capstone
+### ✦ AI Safari 
 Applied AI project focused on building practical, user-centered solutions with measurable impact.
 
 <sub>AI · Research · Software Development</sub>
@@ -185,15 +185,6 @@ Rapidly prototyped applications across blockchain, APIs, AI and emerging technol
 Hands-on experimentation with Linux, systems programming, networking and security concepts
 
 <sub>Linux · C · Systems · Security</sub>
-
-</td>
-<td width="50%">
-
-### ✦ Personal Portfolio
-A continuously evolving space documenting projects, experiments, technical growth and things I'm building.
-
-<sub>Frontend · UI · Engineering</sub>
-
 </td>
 </tr>
 </table>
