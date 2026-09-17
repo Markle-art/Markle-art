@@ -45,7 +45,7 @@ Mission:
 
 ---
 
-## 🚀 Current Focus
+## Focus
 
 -     Software Engineering | Full-stack Development | System & Product management    
 -     🤖 Exploring AI-powered applications.
@@ -188,20 +188,6 @@ Hands-on experimentation with Linux, systems programming, networking and securit
 </td>
 </tr>
 </table>
-
----
-
-## ⚡ Currently Building
-
-```text
-Software Engineering     █████████░  90%
-AI & Intelligent Systems ████████░░  80%
-Web Development          █████████░  90%
-Data & Analytics         ██████░░░░  60%
-Cloud & DevOps           ██████░░░░  60%
-Web3                     █████░░░░░  50%
-```
-
 ---
 
 ## 🌍 Connect with me
