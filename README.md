@@ -35,9 +35,10 @@ Focus Areas:
 
 Current Project:
   - DawaFind
-  - Afya Navigator
+  - weatherproof
+  - Global Rails
   - S–Pass
-  - AI Safari
+
 
 Mission:
   Building technology that creates real-world impact.
@@ -141,14 +142,7 @@ Mission:
 
 <table>
 <tr>
-<td width="50%">
-
-### ✦ DawaFind
-AI-powered healthcare discovery platform designed to help users find pharmacies and check medicine availability.
-
-<sub>AI · Web Development · APIs · Healthcare</sub>
-
-</td>
+  
 <td width="50%">
 
 ### ✦ Northstar Support Deflection
