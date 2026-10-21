@@ -34,7 +34,7 @@ Focus Areas:
   - Open Source
 
 Current Project:
-  - DawaFind
+  - Aftercode
   - weatherproof
   - Global Rails
   - S–Pass
